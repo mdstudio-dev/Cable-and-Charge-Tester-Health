@@ -69,4 +69,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
 - **Developer:** ouayat studio
-email : fezdecor@gmail.com
+email : ouayatstudio@gmail.com
