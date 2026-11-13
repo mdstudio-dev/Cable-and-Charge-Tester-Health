@@ -5,7 +5,6 @@
 **Developer / Studio:** ouayat studio  
 **Application ID:** `com.cableandcharge.health`  
 
-
 ---
 
 ## Overview
@@ -33,6 +32,25 @@ The app requires the following standard Android permissions solely for functiona
 
 ---
 
+## EU / EEA / UK GDPR Privacy Rights
+If you reside in the European Economic Area (EEA), United Kingdom (UK), or Switzerland:
+- You are presented with Google's UMP consent form upon app launch to consent to or refuse personalized advertising.
+- You can review, change, or revoke your consent preferences at any time inside the app under **Settings > Ad Privacy Choices (GDPR)**.
+
+---
+
+## California Privacy Rights (CCPA / CPRA Notice)
+If you are a resident of California, the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA) grant you specific privacy rights:
+
+- **Right to Know & Access:** You have the right to request details about the categories and specific pieces of personal information collected or processed.
+- **Right to Delete:** You have the right to request deletion of your personal information. All diagnostic and benchmark data stored locally on your device can be cleared directly within the app settings.
+- **Right to Opt-Out of Sale / Sharing:** We do not sell your personal information. Third-party advertising partners (such as Google AdMob) may collect device identifiers (such as the Android Advertising ID) for personalized advertising, which may be deemed "sharing" under California law. You can opt out of personalized ads at any time via your device settings (**Settings > Privacy > Ads > Opt out of Ads Personalization**).
+- **Right to Non-Discrimination:** You will not receive discriminatory treatment for exercising any of your CCPA/CPRA rights.
+
+To submit a CCPA/CPRA request, contact us at [ouayatstudio@gmail.com](mailto:ouayatstudio@gmail.com).
+
+---
+
 ## Children’s Privacy
 This application is not directed at children under the age of 13. We do not knowingly collect personal information from children.
 
@@ -50,5 +68,4 @@ We may update our Privacy Policy from time to time. You are advised to review th
 
 ## Contact Us
 If you have any questions or suggestions about our Privacy Policy, contact us at:  
-[ouayatstudio@gmail.com]
-
+[ouayatstudio@gmail.com](mailto:ouayatstudio@gmail.com)
